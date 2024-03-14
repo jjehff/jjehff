@@ -8,6 +8,6 @@
     <div class="description">
       <h1>Jeff Dang</h1>
       <h2>Computer Science Major</h2>
-      <p LinkedIn: href="https://www.linkedin.com/in/jeff-dang-84a991251/"></p>
+      <p class="linkedin" href="https://www.linkedin.com/in/jeff-dang-84a991251/">LinkedIn: </p>
     </div>
   </body>
