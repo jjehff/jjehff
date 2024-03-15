@@ -13,8 +13,10 @@
     </div>
     <div class="socials">
       <h2>Find me on other platforms!</h2>
-      <a class="linkedin" href="https://www.linkedin.com/in/jeff-dang-84a991251/" display: block>Linkedin</a>
-      <a href="mailto:jeffdang72@gmail.com">Email</a>
+      <ul>
+        <li><a class="linkedin" href="https://www.linkedin.com/in/jeff-dang-84a991251/" display: block>Linkedin</a></li>
+        <li><a href="mailto:jeffdang72@gmail.com">Email</a></li>
+      </ul>
     </div>
     <div class="about-me">
       <h2>About me</h2>
