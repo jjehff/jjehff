@@ -20,7 +20,7 @@
     <div class="about-me">
       <h2>About me</h2>
       <p>I am an ambitious person who currently is enjoying studying different types of languages to further my knowledge</p>
-      <p>I want to do full stack projects when I have the skills to do and would love to collaborate on projects with others</p>
+      <p>I want to do full stack projects when I have the skills to do so and would love to collaborate on projects with others</p>
       <p>If you are interested in collabing in projects, please contact me through the above methods!</p>
     </div>
   </body>
