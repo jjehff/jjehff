@@ -8,7 +8,7 @@
     <div class="description">
       <h1>Hello! My name is Jeff Dang!</h1>
       <p>I am currently a 2nd year Computer Science student!</p>
-      <p>My website will be here when it is completed :)</p>
+      <a href="https://jjehff.github.io/">My Portfolio Website</a>
     </div>
     <div class="socials">
       <h2>Find me on other platforms!</h2>
