@@ -7,7 +7,7 @@
   <body>
     <div class="description">
       <h1>Hello! My name is Jeff Dang!</h1>
-      <p>I am currently a 2nd year Computer Science student!</p>
+      <p>I am currently a 3rd year Computer Science student!</p>
       <a href="https://jjehff.github.io/">My Portfolio Website</a>
     </div>
     <div class="socials">
